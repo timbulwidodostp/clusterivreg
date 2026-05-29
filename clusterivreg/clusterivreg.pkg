@@ -1,0 +1,16 @@
+D 'clusterbs': Pairs cluster bootstrap-t program for calculating standard errors for linear and GLM models using clustered data Use clusterbs With STATA 19
+D
+F _eststo.ado
+F _eststo.hlp
+F clusterbs.ado
+F clusterbs.sthlp
+F estadd.ado
+F estadd.hlp
+F estout.ado
+F estout.hlp
+F estpost.ado
+F estpost.hlp
+F eststo.ado
+F eststo.hlp
+F esttab.ado
+F esttab.hlp
