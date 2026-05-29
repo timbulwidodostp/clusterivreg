@@ -2,4 +2,4 @@
 1
 2
 3
-p clusterbs Pairs cluster bootstrap-t program for calculating standard errors for linear and GLM models using clustered data Use clusterbs With STATA 19
+p clusterivreg Data-driven IV Inference for Dependent Data with Learned Clusters Use clusterivreg With STATA 19
